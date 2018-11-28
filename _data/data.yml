@@ -7,12 +7,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Jorge Rubio
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: jorge.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: jorge.rubiobarboza96@gmail.com
     phone: 012 345 6789
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
@@ -47,18 +47,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I'm a young software developer/computer science student looking to learn new things 
+      every day of my life. I'm a passionate person for the technologies and new trends, 
+      like data analytics and Data Science. I have experience on web developement, 
+      data analytics and business intelligence. I consider myself a sports, music and a 
+      technology lover.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BS in Computer Science
+      university: Tecnologico de Monterrey (ITESM)
+      time: 2014 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,9 +81,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Analytics Intern
+      time: 2017 - Present
+      company: Tecnologico de Monterrey (ITESM), Monterrey, NL, Mexico
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -97,8 +95,15 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
+          - Front-end and Back-end development
+          - Project manager
+          - Teamwith 4 coworkers
+          - Agile methodology
+          - Database planification
+          - Analytics (Sentiment analysis, text analysis,...)
+          - Data mining
+          - SaaS app development
+          - PaaS app development
 
     - role: Senior Software Engineer
       time: 2014 - 2015
@@ -110,21 +115,13 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Front-end and Back-end development
+          - Agile methodology
+          - Database planification
+          - ERP system development
+            
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    
 
 projects:
     title: Projects
