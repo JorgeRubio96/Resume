@@ -19,182 +19,135 @@ sidebar:
     github: JorgeRubio96
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: French
+        level: Basic
 
     interests:
-      - item: Climbing
+      - item: Soccer
         link:
 
-      - item: Snowboarding
+      - item: Crossfit
         link:
 
-      - item: Cooking
+      - item: Music Production
+        link:
+
+      - item: Music
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I'm a young software developer/computer science student looking to learn 
+      new things every day of my life. I'm a passionate person for the technologies 
+      and new trends, like data analytics and Data Science. I have experience on web 
+      developement, data analytics and business intelligence. I consider myself a 
+      sports, music and a technology lover.
 
-      Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BS in Computer Science
+      university: Tecnologico de Monterrey (ITESM)
+      time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        I study the BS in Computer Science, during my studies at Campus Monterrey
+        I enjoy not only the educational area, but developed myself in other areas, 
+        like sports, I was part of the representative team of soccer for a year,
+        and also participated in diverse studet's society activities, like Women In
+        Tech.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Analytics Intern
+      time: 2017 - Present
+      company: Tecnologico de Monterrey (ITESM), Monterrey, N.L., Mexico
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I work directly with diverse clients, who are also part of Tec
+        de Monterrey, I develop myself with projects from web applications, 
+        CRM's, and Data Analytics.
+        I develop myself in diverse areas, like developing the Back-end, 
+        doing diverse text anylisis or being a project manager.
+ 
+          - Front-end and Back-end development
+          - Project manager
+          - Teamwith 4 coworkers
+          - Agile methodology
+          - Database planification
+          - Analytics (Sentiment analysis, text analysis,...)
+          - Data mining
+          - SaaS app development
+          - PaaS app development
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Web Developement Intern
+      time: 2017 - 2017
+      company: Electrotecnia S.A. de C.V., Guadalupe, Zacatecas, Mexico
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I was a Full Stack developer, working in an ERP for the organization.
+        This optimize the time and workflow of the enterprise by 5%, translating
+        in reduction of costs.
+        I worked directly with the personel, with the web application, with the 
+        data base and with the server.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Front-end and Back-end development
+          - Agile methodology
+          - Database planification
+          - ERP system development
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      During my life as a developer I was involved in diverse projects
+      and side activities, that enriched my skills as a developer, but 
+      most important, as a professional.
+      I worked in software projects and also projects that involved a 
+      social problem, like involve women into technologies.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Grease-Lang
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A compiler that focus in the optimization of time and execution of proceses."
 
-      - title: Tempo
+      - title: Women In Tech
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Course given to women that want to enter or become better in coding."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C/C++
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: PHP
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Python
+        level: 65%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: R
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: HTML
+        level: 80%
+
+      - name: CSS 
+        level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
