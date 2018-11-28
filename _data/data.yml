@@ -3,20 +3,20 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Jorge Rubio
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: jorge.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: jorge.rubiobarboza96@gmail.com
+    phone: +52 492 101 1487
+    #website: blog.webjeda.com #do not add http://
+    linkedin: Jorge Emilio Rubio Barboza
+    github: JorgeRubio96
     gitlab:
     bitbucket:
     twitter: '@webjeda'
