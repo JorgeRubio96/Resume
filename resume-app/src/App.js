@@ -10,18 +10,18 @@ class App extends Component{
           <Layout>
               <Header className="header-color" title="Title" scroll>
                   <Navigation>
-                      <Link to="/resume">Resume</Link>
-                      <Link to="/projects">Projects</Link>
-                      <Link to="/aboutme">About Me</Link>
-                      <Link to="/contact">Contact</Link>
+                      <Link to="/resume/resume">Resume</Link>
+                      <Link to="/resume/projects">Projects</Link>
+                      <Link to="/resume/aboutme">About Me</Link>
+                      <Link to="/resume/contact">Contact</Link>
                   </Navigation>
               </Header>
               <Drawer title="Title">
                   <Navigation>
-                    <Link to="/resume">Resume</Link>
-                    <Link to="/projects">Projects</Link>
-                    <Link to="/aboutme">About Me</Link>
-                    <Link to="/contact">Contact</Link>
+                    <Link to="/resume/resume">Resume</Link>
+                    <Link to="/resume/projects">Projects</Link>
+                    <Link to="/resume/aboutme">About Me</Link>
+                    <Link to="/resume/contact">Contact</Link>
                   </Navigation>
               </Drawer>
               <Content>
