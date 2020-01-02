@@ -8,16 +8,18 @@ class App extends Component{
     return (
       <div className="demo-big-content">
           <Layout>
-              <Header className="header-color" title="Title" scroll>
+              <Header className="header-color" title="Resume App" scroll>
                   <Navigation>
+                      <Link to="/Resume">Home</Link>
                       <Link to="/Resume/resume">Resume</Link>
                       <Link to="/Resume/projects">Projects</Link>
                       <Link to="/Resume/aboutme">About Me</Link>
                       <Link to="/Resume/contact">Contact</Link>
                   </Navigation>
               </Header>
-              <Drawer title="Title">
+              <Drawer title="Resume App">
                   <Navigation>
+                    <Link to="/Resume">Home</Link>
                     <Link to="/Resume/resume">Resume</Link>
                     <Link to="/Resume/projects">Projects</Link>
                     <Link to="/Resume/aboutme">About Me</Link>

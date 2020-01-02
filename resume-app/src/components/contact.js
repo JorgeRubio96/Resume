@@ -1,9 +1,50 @@
 import React, { Component } from 'react';
+import { Grid, Cell, List, ListItem, ListItemContent } from 'react-mdl';
 
 class Contact extends Component {
     render() {
         return (
-            <div><h1>Contact Page</h1></div>
+            <div className="contact-body">
+                <Grid className="contact-grid">
+                    <Cell col={6}>
+                        <h2>Jorge Rubio</h2>
+                        <img 
+                            src="https://instagram.fzcl2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/22280743_513884005615569_9002416654038073344_n.jpg?_nc_ht=instagram.fzcl2-1.fna.fbcdn.net&_nc_ohc=wV7hCagf5HkAX9fLc8u&oh=e4dea3f8b5e86ca31addca3b4afc3539&oe=5E9386D2"
+                            alt="avatar"
+                            style={{height: '250px'}}
+                        />
+                        <p style={{ width:'75%', margin:'auto', paddingTop: '1em' }}>Hey! If you liked my work or want to collab or just want to get in contact with me, here you can find all the places you can find me or get in touch with me.
+I will more than pleased to get in contact with you!
+</p>
+                    </Cell>
+                    <Cell col={6}>
+                        <h2>Contact me</h2>
+                        <hr/>
+                        <div className="contact-list">
+                            <List>
+                                <ListItem>
+                                    <ListItemContent style={{ fontSize: '25px', fontFamily: 'Anton' }}>
+                                        <i className="fa fa-phone-square" aria-hidden='true'/>
+                                        +52 492-101-1487
+                                    </ListItemContent>
+                                </ListItem>
+                                <ListItem>
+                                    <ListItemContent style={{ fontSize: '25px', fontFamily: 'Anton' }}>
+                                        <i className="fa fa-envelope" aria-hidden='true'/>
+                                        jorge.rubiobarboza96@gmail.com
+                                    </ListItemContent>
+                                </ListItem>
+                                <ListItem>
+                                    <ListItemContent style={{ fontSize: '25px', fontFamily: 'Anton' }}>
+                                        <i className="fa fa-instagram" aria-hidden='true'/>
+                                        @jorge_rubiobrz
+                                    </ListItemContent>
+                                </ListItem>
+                            </List>
+                        </div>
+                    </Cell>
+                </Grid>
+            </div>
         );
     }
 }

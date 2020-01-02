@@ -25,13 +25,13 @@ class LandingPage extends Component {
                                 <a href="https://www.linkedin.com/in/jorge-emilio-rubio-barboza-840211143/"  rel="noopener noreferrer"  target="_blank">
                                  <i class="fa fa-linkedin-square" aria-hidden="true"/>
                                 </a>
-                                {/* GitHub */}
-                                <a href="https://github.com/JorgeRubio96"  rel="noopener noreferrer"  target="_blank">
-                                    <i class="fa fa-github-square" aria-hidden="true"/>
+                                {/* Instgram */}
+                                <a href="https://instagram.com/jorge_rubiobrz"  rel="noopener noreferrer"  target="_blank">
+                                    <i class="fa fa-instagram" aria-hidden="true"/>
                                 </a>
-                                {/* Linkedin */}
-                                <a href="https://www.linkedin.com/in/jorge-emilio-rubio-barboza-840211143/"  rel="noopener noreferrer"  target="_blank">
-                                 <i class="fa fa-linkedin-square" aria-hidden="true"/>
+                                {/* Spotify */}
+                                <a href="https://open.spotify.com/artist/648Po1U7BJDFnWmcgazeNW"  rel="noopener noreferrer"  target="_blank">
+                                    <i class="fa fa-spotify" aria-hidden="true"/>
                                 </a>
                             </div>
                         </div>
